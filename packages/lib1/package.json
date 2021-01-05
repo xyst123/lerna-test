@@ -1,5 +1,5 @@
 {
-  "name": "lib1",
+  "name": "xy-lib1",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "dependencies": {
     "lib2": "^0.0.2"
   },
-  "gitHead": "3f92814969bd4c9683cd97856479e811b56d9a24"
+  "gitHead": "434de7e7238ebe3528c916becc6721cc7fc1fb45"
 }
